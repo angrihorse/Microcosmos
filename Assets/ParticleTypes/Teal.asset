@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94a61ebf1acfb364aadaa02e92e156a3, type: 3}
+  m_Name: Teal
+  m_EditorClassIdentifier: 
+  range: 6
+  acceleration: 4
+  infectionLikelihood: 0.06
+  diameter: 2
+  material: {fileID: 2100000, guid: a79408bfd2618074b84dc4bb354605c1, type: 2}
