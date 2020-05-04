@@ -912,4 +912,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: D:/games/Mine/Blobs/Blobs.exe
+  playerPath: D:/games/Mine/Microcosmos/Microcosmos.exe
